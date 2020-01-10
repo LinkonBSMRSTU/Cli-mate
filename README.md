@@ -1,8 +1,9 @@
 
 #  Cli-mate
 
-
-
+<h3 align="center">
+<img src="cli-mate.gif" alt="Screenshot of Cli-mate App for iOS" />
+</h3>
 ## Used Open Weather API
 
 ## What is Cli-mate
